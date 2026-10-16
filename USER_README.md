@@ -11,7 +11,7 @@
 Baseline 格式，不支持 Progressive JPG。图片会按屏幕比例缩放并居中，过大的图片会
 缩小，较小图片不会放大；设备会保留最后一次上传的图片。
 
-## English
+## English User Instructions
 
 1. Power on PaperDIY and wait for startup.
 2. Connect your phone or computer to Wi-Fi `PaperDIY-PNG` with password `paperdiy`.
