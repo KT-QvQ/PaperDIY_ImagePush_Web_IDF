@@ -7,17 +7,15 @@ PaperDIY display driver.
 
 ## Dependency
 
-The component wrappers reference the local M5 libraries at:
-
-`/home/kt/Paper_Mono/PaperMonoWakeDemo/lib/M5GFX`
-
-`/home/kt/Paper_Mono/PaperMonoWakeDemo/lib/M5Unified`
+M5Unified `0.2.26` and its M5GFX dependency are declared in
+`main/idf_component.yml`. ESP-IDF's component manager downloads them from the
+public component registry during the first configure/build.
 
 ## Build
 
 ```bash
-cd /home/kt/PaperDIY/PaperDIY_ImagePush_Web_IDF
-source /home/kt/idf554/esp-idf/export.sh
+# Run this after activating your ESP-IDF 5.5 installation.
+cd PaperDIY_ImagePush_Web_IDF
 idf.py set-target esp32s3
 idf.py build
 ```
