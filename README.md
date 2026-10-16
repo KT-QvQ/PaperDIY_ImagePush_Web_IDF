@@ -1,5 +1,7 @@
 # PaperDIY Image Push Web Demo - ESP-IDF 5.5.4
 
+Project repository: [KT-QvQ/PaperDIY_ImagePush_Web_IDF](https://github.com/KT-QvQ/PaperDIY_ImagePush_Web_IDF)
+
 This ESP-IDF demo pushes PNG and JPG images from a phone or computer to the
 PaperDIY display over a Wi-Fi access point. It uses the native ESP-IDF
 Wi-Fi AP and `esp_http_server` components. M5GFX/M5Unified are reused for the

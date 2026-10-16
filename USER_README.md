@@ -1,5 +1,7 @@
 # PaperDIY Image Push Web
 
+项目仓库 / Project repository: [KT-QvQ/PaperDIY_ImagePush_Web_IDF](https://github.com/KT-QvQ/PaperDIY_ImagePush_Web_IDF)
+
 ## 中文使用说明
 
 1. 给 PaperDIY 上电，等待设备启动。
