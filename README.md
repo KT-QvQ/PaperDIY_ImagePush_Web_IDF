@@ -5,6 +5,9 @@ PaperDIY display over a Wi-Fi access point. It uses the native ESP-IDF
 Wi-Fi AP and `esp_http_server` components. M5GFX/M5Unified are reused for the
 PaperDIY display driver.
 
+For the prebuilt Factory firmware and end-user instructions, see
+[`USER_README.md`](USER_README.md).
+
 ## Dependency
 
 M5Unified `0.2.26` and its M5GFX dependency are declared in
